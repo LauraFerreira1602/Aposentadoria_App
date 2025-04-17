@@ -11,7 +11,7 @@ from flet.core.types import MainAxisAlignment, CrossAxisAlignment
 
 
 def main(page: ft.Page):
-    page.title = "Exemplo Rotas"
+    page.title = "INSS"
     page.theme_mode = ft.ThemeMode.LIGHT  # ou ft.ThemeMode.DARK
     page.window.width = 375
     page.window.height = 667
